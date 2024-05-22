@@ -68,3 +68,16 @@ Optional GST Registration:
 - Businesses making exempt supplies (e.g., agriculture, education, healthcare).
 - Small businesses with turnover less than ₹20 lakhs can voluntarily register under GST.
 - Businesses with turnover between ₹20 lakhs to ₹1 crore can opt for composition levy.
+
+## [Types of GST - Method of applying of GST](https://www.bankbazaar.com/tax/types-of-gst.html)
+
+## Types of firms under GST
+_Businesses need to register under these two categories for GST Registration_
+1. Composition
+2. Regular
+
+| | Composition | Regular
+|:------------:|:------:|:-----:|
+| GST | Flat rate on overall sales (around 1-6%) | Fixed - As per sold item/service
+| Eligibility | This scheme is primarily for small businesses with a turnover below a certain threshold (usually ₹1.5 crore annually). | Any business exceeding the turnover threshold for the composition scheme or not meeting its eligibility criteria must register under the regular scheme.
+| Input Tax Credit (ITC) | They cannot claim ITC, which is the credit taken for GST paid on purchases. This can be a disadvantage if a significant portion of your business involves buying taxable goods or services. | They can claim ITC, which reduces their overall GST liability. This can be a significant advantage, especially for businesses that purchase a lot of taxable inputs.
