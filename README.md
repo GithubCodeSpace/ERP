@@ -49,3 +49,22 @@ ITC claimed (from flour purchase) = ₹18
 GST payable to government = ₹36 (collected) - ₹18 (ITC) = ₹18
 So, you only pay GST on the value you added (profit) after claiming the ITC for the tax you already paid on purchases.
 ```
+
+**Turnover**: _Turnover in business, also referred to as gross revenue or sales, is the total amount of money a business generates from its core operations over a specific period. It essentially represents the income earned before any expenses are deducted._
+
+### GST REGISTRATION
+
+Turnover Threshold: Any business supplying taxable goods or services must register if its aggregate turnover in a financial year exceeds:
+- ₹40 lakhs for regular states
+- ₹10 lakhs for special category states (refer to [Notification No.10/2019](https://cbic-gst.gov.in/pdf/rod-10-2019-cgst-english.pdf) for a list)
+- Inter-State Supply: Businesses involved in supplying goods across state borders, irrespective of their turnover.
+- E-commerce: Businesses supplying goods through e-commerce platforms (even if below the turnover threshold).
+- Successor of Registered Business: If a registered business is transferred or demerged, the new entity needs to register from the transfer date.
+- Previously Registered Under Other Laws: Businesses previously registered under pre-GST laws like Excise, VAT, or Service Tax.
+
+Optional GST Registration:
+
+- Businesses with turnover below the threshold limit.
+- Businesses making exempt supplies (e.g., agriculture, education, healthcare).
+- Small businesses with turnover less than ₹20 lakhs can voluntarily register under GST.
+- Businesses with turnover between ₹20 lakhs to ₹1 crore can opt for composition levy.
