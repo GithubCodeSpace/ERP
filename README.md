@@ -84,3 +84,7 @@ _Businesses need to register under these two categories for GST Registration_
 | B2C Sales | Suitable for Composition firm | Not Suitable for Regular firm.
 | B2B Sales | Not Suitable for Composition firm | Suitable for Regular firm.
 | GST Return | Quarterly | Quarterly or Monthy
+| Sale Invoice (Bill) Name | Bill Of Supply | GST Invoice or Tax Invoice or Invoice
+
+
+Accounting With Inventory: Maintaining the purchase and sale of Products/items list with price per unit plus the GST, and Quantity
